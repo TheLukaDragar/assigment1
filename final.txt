@@ -1,0 +1,22 @@
+Test set: len: 100
+Train set: len: 400
+Starting detection with scale_factor: 1.02, min_neighbors: 2, min_size: 30
+100%|███████████████████████████████████████████████████████████████████| 100/100 [00:31<00:00,  3.22it/s]
+{'detected': 72, 'not_detected': 28, 'avg_iou': 'tensor(0.2818, dtype=torch.float64)', 'avg_iou_detected': 'tensor(0.3915, dtype=torch.float64)'}
+detected_imgs:  72
+gt_imgs:  100
+Extracting LBP features for 72 images
+Extracting LBP features for 100 images
+Features array shape: (72, 400)
+GT Features array shape: (100, 400)
+Accuracy using ground truth VJ detections: 0.36 36/100
+number of detected ears: 72/100
+Accuracy using best VJ detections when considering only detected ears: 0.1527777777777778 11/72
+Accuracy using best VJ detections when considering all images: 0.11 11/100
+Extracting LBP features for 100 images
+Extracting LBP features for 72 images
+Raw Features array shape: 72
+Raw GT Features array shape: 100
+Accuracy with ground truth raw ear image comparison: 0.27 27/100
+Accuracy with best VJ, raw ear image comparison when considering only detected ears: 0.18055555555555555 13/72
+Accuracy with best VJ, raw ear image comparison when considering all images: 0.13 13/100

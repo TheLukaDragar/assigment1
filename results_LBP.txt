@@ -1,0 +1,576 @@
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1075
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1875
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.09
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0325
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0775
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1425
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.2
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.085
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0575
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.12
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.11
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.125
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.09
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1525
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0825
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.1525
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.105
+
+{'histograms': False, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0925
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.08
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.045
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0425
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1175
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.155
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.06
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0475
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0525
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.09
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.0875
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0475
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.045
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0375
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.075
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1325
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.045
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.045
+
+{'histograms': False, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0875
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1375
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.05
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.035
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0375
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1975
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.18
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0775
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.045
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.04
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.055
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.115
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0275
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0425
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0325
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0525
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.1325
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.145
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.02
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0325
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.04
+
+{'histograms': False, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0375
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1875
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.09
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0325
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0775
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0775
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.2
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.09
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.065
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.12
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.03
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0525
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.125
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0475
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.09
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.05
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.06
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.1525
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0775
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.105
+
+{'histograms': True, 'lbptype': 'default', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.08
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.055
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0425
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0275
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.155
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.035
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0475
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.03
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.0875
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0475
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.025
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0375
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.005
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1325
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.045
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.02
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.045
+
+{'histograms': True, 'lbptype': 'uniform', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0075
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.1375
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.035
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.02
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.18
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0325
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0775
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0425
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 8, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0275
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.115
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.0275
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.0425
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.0525
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 1, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': False},0.0375
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': False, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': False},0.145
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 24, 'use_lib': True, 'use_raw': True},0.165
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': False, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': False},0.05
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 64, 'use_lib': True, 'use_raw': True},0.1675
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': False},0.0375
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': False, 'use_raw': True},0.17
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': False},0.04
+
+{'histograms': True, 'lbptype': 'rotation', 'neighbors': 16, 'radius': 2, 'resize_to': 128, 'use_lib': True, 'use_raw': True},0.17
+
